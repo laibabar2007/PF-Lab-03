@@ -1,14 +1,15 @@
-# Programming Fundamentals Lab
+# Programming Fundamentals – Lab 03
 
 **Name:** Laiba Babar
-**Roll Number:** 25K-6554 
+**Roll Number:** 25K-6554
 
 ## Lab Objectives
 - Learn GitHub basics
 - Practice C programming
-- Understand version control
+- Understand variables and input/output
 
-## Completed Tasks
-- [x] Created GitHub repository
-- [x] Added README and License
-- [x] Created branch and committed C files
+## Tasks Completed
+- [x] Repository created
+- [x] README formatted
+- [x] C programs written
+
